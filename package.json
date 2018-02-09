@@ -1,5 +1,5 @@
 {
-  "name": "apolloBytes_task",
+  "name": "GS_task",
   "version": "0.1.0",
   "description": "",
   "keywords": [
@@ -8,9 +8,9 @@
     "test"
   ],
   "license": "MIT",
-  "author": "Sargis Stepanyan",
+  "author": "Karen Simonyan",
   "contributors": [
-    "Sargis Stepanyan <sastep1991@mail.ru>"
+    "Karen Simonyan <simonyankaren40@gmail.com>"
   ],
   "main": "src/index.js",
   "scripts": {
